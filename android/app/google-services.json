@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "305808575065",
+    "project_id": "ask-a-task",
+    "storage_bucket": "ask-a-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305808575065:android:64541bedf42e22abe1ff48",
+        "android_client_info": {
+          "package_name": "com.adrianmackowiak.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305808575065-u8bpd7v1mlf8vurf6va6rdhp7f0ajanj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5lkyv2GlnCAtRKU_iqWHAW3rVD5yaoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305808575065-u8bpd7v1mlf8vurf6va6rdhp7f0ajanj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305808575065-5v0khuv0orgo1cnedgarohl7vlidn1fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adrianmackowiak.familyCheck"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305808575065:android:d70627789c1d535fe1ff48",
+        "android_client_info": {
+          "package_name": "com.adrianmackowiak.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305808575065-u8bpd7v1mlf8vurf6va6rdhp7f0ajanj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5lkyv2GlnCAtRKU_iqWHAW3rVD5yaoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305808575065-u8bpd7v1mlf8vurf6va6rdhp7f0ajanj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305808575065-5v0khuv0orgo1cnedgarohl7vlidn1fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.adrianmackowiak.familyCheck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
